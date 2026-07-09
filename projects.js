@@ -122,7 +122,7 @@ const PROJECTS = [
       { type: "image", src: "media/images/boost con.jpg" },
       { type: "video", src: "media/videos/boost con3.mp4" },
     ]
-  }
+  },
 {
     id: "Axes",
     category: "other",
