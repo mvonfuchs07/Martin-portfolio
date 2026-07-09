@@ -123,5 +123,24 @@ const PROJECTS = [
       { type: "video", src: "media/videos/boost con3.mp4" },
     ]
   }
-
+{
+    id: "Axes",
+    category: "other",
+    title: "Axe Restoration",
+    summary: " Restoring old Axes to their former glory.",
+    description:
+      "I restore vintage and neglected axe heads by removing rust, refinishing the steel, and fitting them with carefully selected new handles. Each axe is rebuilt by hand with attention to both function and appearance, giving old tools a second life while preserving their history and craftsmanship. ",
+    specs: {
+      role: "Hobby",
+      materials: "woden handle, axe heads, finish oil",
+      tools: " woodworking and metal working tools",
+      status: " ongoing",
+      year: "2026-present"
+    },
+    media: [
+      { type: "image", src: "media/images/axe1.jpg" },
+      { type: "image", src: "media/images/axe2.jpg" },
+      { type: "image", src: "media/images/axe3.jpg" },
+    ]
+  }
 ];
