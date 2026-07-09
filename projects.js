@@ -143,5 +143,5 @@ const PROJECTS = [
       { type: "image", src: "media/images/axe2.jpg" },
       { type: "image", src: "media/images/axe3.jpg" },
     ]
-  }
+  },
 ];
