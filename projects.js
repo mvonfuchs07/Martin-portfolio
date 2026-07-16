@@ -123,7 +123,26 @@ const PROJECTS = [
       { type: "video", src: "media/videos/boost con3.mp4" },
     ]
   },
-
+{
+    id: "ESP32 Motor Driver Board",
+    category: "electrical",
+    title: "ESP32 Motor Driver Board",
+    summary: " Wifi controled motor driver.",
+    description:
+      "Designed and assembled a custom 5-channel motor driver using an ESP32 DevKit V1 as the main controller. The board was hand-soldered and arranged with plug-in connections for motors and servos, making integration quick and simple for robotics and RC projects. ",
+    specs: {
+      role: "Prototype",
+      materials: "ESP32 DEV KIT V1",
+      tools: "Soldering iron, through hole board",
+      year: "2025"
+    },
+    media: [
+      { type: "image", src: "media/images/MD1.jpg" },
+      { type: "image", src: "media/images/MD2.jpg" },
+      { type: "image", src: "media/images/MD3.jpg" },
+      { type: "image", src: "media/images/MD4.jpg" },
+    ]
+  },
  {
     id: "Axes",
     category: "other",
