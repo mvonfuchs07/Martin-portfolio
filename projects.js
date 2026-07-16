@@ -80,7 +80,7 @@ const PROJECTS = [
 
   {
     id: "Knife",
-    category: "Mechanical",
+    category: "mechanical",
     title: "Knife build",
     summary: "Custom Knife Making.",
     description:
