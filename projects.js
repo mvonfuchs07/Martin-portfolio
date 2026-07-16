@@ -56,6 +56,27 @@ const PROJECTS = [
       { type: "image", src: "media/images/car4.jpg" },
     ]
   },
+ {
+    id: "Flint Lock Pistol",
+    category: "mechanical",
+    title: "Flint lock Pistol",
+    summary: "Flint lock Pistol Assembly",
+    description:
+      "Built and finished a flintlock pistol from a component kit, requiring careful fitting and assembly of all mechanical and wooden parts to ensure proper alignment and operation. The project involved hand-fitting components, adjusting parts for proper fitment, sanding and finishing the wooden stock, and applying a blued finish to the barrel for durability and historical appearance. ",
+    specs: {
+      role: "Manufacturing and Assembly",
+      materials: "Wood Stock, Steel Barel",
+      duration: " 1 week ",
+      year: "2025"
+    },
+    media: [
+      { type: "image", src: "media/images/GUN1.jpg" },
+      { type: "image", src: "media/images/GUN2.jpg" },
+      { type: "image", src: "media/images/GUN5.jpg" },
+      { type: "image", src: "media/images/GUN3.jpg" },
+      { type: "video", src: "media/videos/GUN6.mp4" },
+    ]
+  },
 
   {
     id: "Knife",
