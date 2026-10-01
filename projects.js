@@ -25,6 +25,31 @@
 const PROJECTS = [
 
 {
+    id: "3D Printer Build",
+    category: "mechanical",
+    title: "Prusa Core One",
+    summary: "Built the Prusa Core one +Gen 2 assembly kit",
+    description:      
+      "Hands-on assembly of the Original Prusa CORE One+ (Gen 2) CoreXY 3D printer from a bare-metal kit. Built the structural all-steel exoskeleton, aligned linear motion components, and tuned CoreXY belt tension for high-speed stability. Wired the 32-bit mainboard electronics, Nextruder print head with load-cell leveling, active chamber heating controls, and cooling assemblies. Performed initial firmware setup, thermal PID calibration, Input Shaper vibration tuning, and print validation.",
+
+    specs: {
+      role: "Manufactuing",
+      Hardware: "Prusa Core one",
+      skills: "Manufactuing, Assembly",
+      duration: "25 hours",
+      year: "2026"
+    },
+    media: [
+      { type: "image", src: "media/images/PRUSA1.jpg" },
+      { type: "image", src: "media/images/PRUSA2.jpg" },
+      { type: "image", src: "media/images/PRUSA3.jpg" },
+      { type: "image", src: "media/images/PRUSA4.jpg" },
+      { type: "image", src: "media/images/PRUSA5.jpg" },
+    ]
+  },
+
+   
+{
     id: "Raspberry Pi Mini Server",
     category: "software",
     title: "Mini Server",
